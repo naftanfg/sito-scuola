@@ -1,0 +1,24 @@
+:root{
+    --green: #0f0;
+    --darck: #000;
+    --white: #fff;
+    --grey: #686868;
+    --light-gay: #7d7f7d;
+
+}
+
+
+body{
+    font-family: Verdana;
+
+}
+
+.tema-chiaro{
+    background: var(--white);
+    color: var(--darck);
+}
+
+.tema-scuro{
+    background: var(--darck);
+    color: var(--green); 
+}
